@@ -1,0 +1,4 @@
+interface:
+  display_name: "风格提示词设计 / Style Prompt Design"
+  short_description: "设计并验证写作风格提示词 / Design and evaluate style prompts"
+  default_prompt: "请用 $style-prompt-design 设计风格提示词。Create a style prompt with examples and evaluation checks."
