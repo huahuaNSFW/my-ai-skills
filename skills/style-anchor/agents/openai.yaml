@@ -1,0 +1,4 @@
+interface:
+  display_name: "文锚 · Style Anchor"
+  short_description: "为已有风格提示词追加约束补丁，保留原审美 / Preserve style with a constraint patch"
+  default_prompt: "请用 $style-anchor 为我的已有风格提示词加载文锚约束补丁，保留原审美；如果我提供创作任务，请直接应用补丁完成任务。"
